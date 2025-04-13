@@ -1,0 +1,10 @@
+[
+    {
+        "task": "drink alot of water",
+        "done": false
+    },
+    {
+        "task": "recite surah yaseen",
+        "done": true
+    }
+]
