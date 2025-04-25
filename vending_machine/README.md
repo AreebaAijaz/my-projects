@@ -5,23 +5,23 @@ and receive change. The program features inventory tracking, error handling, and
 
 # Getting Started
 
-# Prerequisites
+Prerequisites
 - Python 3.x
 
 # Installation
-1. # Clone the repository:
+1. Clone the repository:
 git clone https://github.com/AreebaAijaz/my-projects/vending_machine.git
 
-2. # Navigate to Project
+2. Navigate to Project
 cd my-projects/vending_machine
 
 # Usage
-# Run the program:
+Run the program:
 python main.py
 
-# Options:
-Insert coins (press C)
-Select products (1-4)
-Get refund (press R)
-Quit (press Q)
+Options:
+* Insert coins (press C)
+* Select products (1-4)
+* Get refund (press R)
+* Quit (press Q)
 
