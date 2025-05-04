@@ -12,10 +12,11 @@ Prerequisites
 1. Clone the repository:
 git clone https://github.com/AreebaAijaz/python_projects.git
 
-
-3. Navigate to Project:
+2. Navigate to Project:
 cd python_projects/vending_machine
-Install rich library: pip install rich
+
+4. Install rich library:
+pip install rich
 
 
 
