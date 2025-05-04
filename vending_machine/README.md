@@ -13,7 +13,7 @@ Prerequisites
 git clone https://github.com/AreebaAijaz/python_projects.git
 
 
-3. Navigate to Project
+3. Navigate to Project:
 cd python_projects/vending_machine
 
 
