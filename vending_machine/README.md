@@ -10,10 +10,12 @@ Prerequisites
 
 # Installation
 1. Clone the repository:
-git clone https://github.com/AreebaAijaz/my-projects/vending_machine.git
+git clone https://github.com/AreebaAijaz/python_projects.git
 
-2. Navigate to Project
-cd my-projects/vending_machine
+
+3. Navigate to Project
+cd python_projects/vending_machine
+
 
 # Usage
 Run the program:
